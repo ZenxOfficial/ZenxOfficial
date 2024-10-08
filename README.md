@@ -43,5 +43,5 @@
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
-![Metrics](https://metrics.lecoq.io/zeeoneofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/zenxofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
